@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello Wolrd 👋
 
-**ARNE-08/ARNE-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ARNE-08/ARNE-08** is a ✨ _special_ ✨ repository with unknown species
 
 Here are some ideas to get you started:
 
@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/They
 - ⚡ Fun fact: ...
 
