@@ -1,6 +1,6 @@
 ### Hello Wolrd 👋
 
-**ARNE-08/ARNE-08** is a ✨ _special_ ✨ repository with unknown species
+**Paramita Saenghao/Judge** is a ✨ _special_ ✨ repository with unknown species
 
 Here are some ideas to get you started:
 
