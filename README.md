@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on virtual machine and web develop ment
+- 🔭 I’m currently working on virtual machine and web development
 - 🌱 I’m currently learning in computer science @KMUTT
 - 💬 Ask me about any nonsense stuff that's not relate to coding (jk)
 - 📫 How to reach me: discord id - jxdge_s #9527
