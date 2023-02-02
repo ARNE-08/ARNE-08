@@ -2,8 +2,6 @@
 
 **Paramita Saenghao/Judge** is a ✨ _special_ ✨ repository with unknown species
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on virtual machine and web development
 - 🌱 I’m currently learning in computer science @KMUTT
 - 💬 Ask me about any nonsense stuff that's not relate to coding (jk)
