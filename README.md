@@ -3,7 +3,7 @@
 **Paramita Saenghao/Judge** is a ✨ _special_ ✨ repository with unknown species
 
 - 🔭 I’m currently working on virtual machine and web development
-- 🌱 I’m currently learning in computer science @KMUTT
+- 🌱 I’m currently learning in *computer science **@KMUTT*
 - 💬 Ask me about any nonsense stuff that's not relate to coding (jk)
 - 📫 How to reach me: discord id - jxdge_s #9527
 - 😄 Pronouns: She/They
