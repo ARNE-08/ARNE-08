@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... --> <br><hr><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNE-08)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNE-08&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
