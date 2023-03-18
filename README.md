@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on virtual machine and web development
 - 🌱 I’m currently learning in **computer science @KMUTT**
-- 💬 Ask me about any nonsense stuff that's not relate to coding (jk)
-- 📫 How to reach me: discord id - jxdge_s #9527
+- 📫 How to reach me: discord id - jxdge_s #9527 | pparamita.sa@gmail.com
 - 😄 Pronouns: She/They
 <!-- - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
