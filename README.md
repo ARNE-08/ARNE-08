@@ -2,7 +2,7 @@
 
 **Paramita Saenghao/Judge** is a ✨ _special_ ✨ repository with unknown species
 
-- 🔭 I’m currently working on virtual machine and web development
+- 🔭 I’m currently working on website development
 - 🌱 I’m currently learning in **computer science @KMUTT**
 - 📫 How to reach me: discord id - jxdge_s #9527 | pparamita.sa@gmail.com
 <!-- - ⚡ Fun fact: ...
