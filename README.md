@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... --> <br><hr><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARNE-08&theme=panda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br><hr><br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ARNE-08&repo=CSC105&show_owner=true&theme=material-palenight)](https://github.com/ARNE-08/github-readme-stats)
+<br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARNE-08&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
