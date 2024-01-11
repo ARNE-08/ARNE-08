@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on website development
 - 🌱 I’m currently learning in **computer science @KMUTT**
-- 📫 How to reach me: discord id - jxdge_s #9527 | pparamita.sa@gmail.com
+- 📫 How to reach me: discord id - jxdge_s #9527
 - I'm seeking for an internship opportunities
 - I'm interest in DevOps and Backend
 
