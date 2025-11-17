@@ -4,9 +4,8 @@
 
 - 🔭 I’m currently working on website development
 - 🌱 I’m currently learning in **computer science @KMUTT**
-- 📫 How to reach me: discord id - jxdge_s #9527
-- I'm seeking for an internship opportunities
-- I'm interested in DevOps and Backend
+- 📫 How to reach me: discord id - jxdge_s #9527, pparamita.sa@gmail.com
+- I'm seeking a full-time Software Engineering job opportunity
 
 <!-- - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
